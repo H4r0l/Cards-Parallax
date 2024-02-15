@@ -1,6 +1,7 @@
 'use client'
 import Image from 'next/image';
 import styles from './style.module.scss';
+import "./extra.styles.css"
 import { useTransform, motion, useScroll } from 'framer-motion';
 import { useRef } from 'react';
 
