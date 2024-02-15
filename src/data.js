@@ -42,8 +42,8 @@ export const Cards = [
   {
     title: "Feliz San Valentin <3",
     description: "Hoy deberia estar dandote floresitas y declaraciones de amor, culpemos a la distancia y mantengamos la promesa de nuestro amor viva ;(.",
-    src: "undefined",
-    link: "https://www.youtube.com",
+    src: "Sixth.gif",
+    link: "https://www.youtube.com/watch?v=f_HmF84G7ZY",
     color: "#73062E",
     textColor: "#FFFFFF"
   },
