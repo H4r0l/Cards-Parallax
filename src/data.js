@@ -39,13 +39,6 @@ export const Cards = [
     color: "#730202",
     textColor: "#FFFFFF"
   },
-  {
-    title: "y soy yo :p",
-    description: "El que te va a decir que sigas adelante, que tienes inmensas cosas por lograr y que tu futuro se ve brillante incluso desde mi punto de vista, Te amo.",
-    src: "Fifth.jpeg",
-    link: "https://www.youtube.com/watch?v=9XUw4wvmRps",
-    color: "#730202",
-    textColor: "#FFFFFF"
-  },
+
 
 ]
